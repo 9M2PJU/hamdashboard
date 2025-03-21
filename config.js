@@ -17,7 +17,7 @@ var aURL = [
     "https://www.contestcalendar.com/fivewkcal.html",
     "1",
   ],
-  ["2196F3", "DX CLUSTER", "https://maps.hamradio.my", "1"],
+  ["2196F3", "DX CLUSTER", "https://dx.hamradio.my", "1"],
   [
     "2196F3",
     "LIGHTNING",
