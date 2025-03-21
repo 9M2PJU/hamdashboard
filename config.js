@@ -73,6 +73,13 @@ var aURL = [
     "https://www.accuweather.com/en/my/national/weather-radar",
     1,
     "R"
+  ],
+  [
+    "#000000",
+    "DX CLUSTER MAPS",
+    "https://dxcluster.dxcenter.com/",
+    1,
+    ""
   ]
 ];
 
@@ -104,7 +111,7 @@ var aIMG = [
   ],
   [
     "LIGHTNING",
-    "https://images.lightningmaps.org/blitzortung/oceania/index.php?map=indonesia&transparent&date=202503210415-120"
+    "https://images.lightningmaps.org/blitzortung/oceania/index.php?map=indonesia&date=202503210415-120"
   ],
   [
     "YOUTUBE",
@@ -140,8 +147,8 @@ var tileDelay = [
   10200,
   10500,
   10300,
-  30400,
-  60700,
+  10000,
+  5000,
   60900,
   10800,
   5000,
