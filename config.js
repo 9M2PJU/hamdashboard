@@ -84,11 +84,11 @@ var aURL = [
 var aIMG = [
   [
     "RADAR",
-    "https://radar.weather.gov/ridge/standard/CONUS_loop.gif"
+    "https://zoom.earth/places/malaysia/"
   ],
   [
     "LOCAL RADAR",
-    "https://radar.weather.gov/ridge/standard/KNQA_loop.gif"
+    "https://www.met.gov.my/data/radar_malaysia.gif?nocache=1742537882274"
   ],
   [
     "NOAA D-RAP",
