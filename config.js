@@ -123,12 +123,12 @@ var aIMG = [
     "https://www.hamqsl.com/solar101vhf.php"
   ],
   [
-    "",
-    ""
+    "MUF",
+    "https://prop.kc2g.com/renders/current/mufd-normal-now.svg"
   ],
   [
-    "",
-    ""
+    "FoF2",
+    "https://prop.kc2g.com/renders/current/fof2-normal-now.svg"
   ]
 ];
 
