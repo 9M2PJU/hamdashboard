@@ -80,18 +80,18 @@ var aIMG = [
   ],
   [
     "LIGHTNING",
-    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",
+    "https://www.lightningmaps.org/blitzortung/oceania/index.php?bo_page=archive&bo_map=indonesia&bo_animation=now",
   ],
   [
     "LIGHTNING LOCAL",
     "https://www.blitzortung.org/en/Images/image_b_ny.png",
   ],
-  ["YOUTUBE EXAMPLE", "iframe|https://www.youtube.com/embed/fzPFaXAV_2Y?autoplay=1&mute=1"],
+  ["YOUTUBE", "iframe|https://www.youtube.com/watch?v=8x6x_6mDVlQ&t=205s"],
   [
-    "WEBSITE EXAMPLE",
-    "iframe|https://globe.adsbexchange.com/?airport=YYZ",
+    "BSP ADS-B",
+    "iframe|https://adsb.hamradio.my/",
   ],
-  ["VIDEO EXAMPLE", "https://himawari8.nict.go.jp/movie/720/20240611_pifd.mp4"],
+  ["VIDEO", "https://himawari8.nict.go.jp/movie/720/20240611_pifd.mp4"],
   ["HF PROPAGATION",
     "https://www.hamqsl.com/solar101vhf.php"],
 ];
