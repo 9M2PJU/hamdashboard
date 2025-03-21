@@ -84,10 +84,6 @@ var aURL = [
 var aIMG = [
   [
     "RADAR",
-    "https://zoom.earth/places/malaysia/"
-  ],
-  [
-    "LOCAL RADAR",
     "https://www.met.gov.my/data/radar_malaysia.gif?nocache=1742537882274"
   ],
   [
@@ -108,11 +104,7 @@ var aIMG = [
   ],
   [
     "LIGHTNING",
-    "https://www.lightningmaps.org/blitzortung/oceania/index.php?bo_page=archive&bo_map=indonesia&bo_animation=now"
-  ],
-  [
-    "LIGHTNING LOCAL",
-    "https://www.blitzortung.org/en/Images/image_b_ny.png"
+    "https://images.lightningmaps.org/blitzortung/oceania/index.php?map=indonesia&transparent&date=202503210415-120"
   ],
   [
     "YOUTUBE",
@@ -129,23 +121,31 @@ var aIMG = [
   [
     "HF PROPAGATION",
     "https://www.hamqsl.com/solar101vhf.php"
+  ],
+  [
+    "",
+    ""
+  ],
+  [
+    "",
+    ""
   ]
 ];
 
 // Image rotation intervals in milliseconds per tile - If the line below is commented, tiles will be rotated every 5000 milliseconds (5s)
 var tileDelay = [
-  11200,
   10000,
   11000,
   10100,
   10200,
   10500,
   10300,
-  10600,
   30400,
   60700,
   60900,
-  10800
+  10800,
+  5000,
+  5000
 ];
 
 // CUT END
