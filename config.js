@@ -86,7 +86,7 @@ var aIMG = [
     "LIGHTNING LOCAL",
     "https://www.blitzortung.org/en/Images/image_b_ny.png",
   ],
-  ["YOUTUBE", "iframe|https://www.youtube.com/embed/v6-ydrdTPhM?si=j3H_ufN--rdC-lCp"],
+  ["YOUTUBE", "iframe|https://www.youtube.com/embed/v6-ydrdTPhM?autoplay=1&mute=1"],
   [
     "BSP ADS-B",
     "iframe|https://adsb.hamradio.my/",
