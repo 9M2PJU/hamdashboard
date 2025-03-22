@@ -99,7 +99,7 @@ var aIMG = [
   ],
   [
     "DX MAPS",
-    "iframe|https://dxcluster.dxcenter.com/"
+    "iframe|https://dxcluster.ha8tks.hu/map/"
   ],
   [
     "WIND",
