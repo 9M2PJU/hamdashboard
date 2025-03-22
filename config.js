@@ -98,8 +98,8 @@ var aIMG = [
     "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png"
   ],
   [
-    "DX MAPS",
-    "iframe|https://dxcluster.ha8tks.hu/V2/map/"
+    "DX CLUSTER",
+    "iframe|https://dx.hamradio.my"
   ],
   [
     "WIND",
