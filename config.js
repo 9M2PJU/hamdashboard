@@ -103,7 +103,7 @@ var aIMG = [
   ],
   [
     "WIND",
-    "iframe|https://earth.nullschool.net/#current/wind/surface/level/orthographic=-251.06,2.35,1132/loc=102.330,3.825"
+    "iframe|https://earth.nullschool.net/#current/wind/surface/level/orthographic=-250.27,2.96,687/loc=102.330,3.825"
   ],
   [
     "RAIN",
