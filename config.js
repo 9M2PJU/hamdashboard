@@ -1,5 +1,5 @@
 // CUT START
-var disableSetup = false; // Manually set to true to disable setup page menu option
+var disableSetup = true; // Manually set to true to disable setup page menu option
 var topBarCenterText = "9M2PJU Ham Radio Dashboard";
 
 // Grid layout desired
