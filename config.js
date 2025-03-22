@@ -99,7 +99,7 @@ var aIMG = [
   ],
   [
     "DX MAPS",
-    "iframe|https://dxcluster.ha8tks.hu/map/"
+    "iframe|https://dxcluster.ha8tks.hu/V2/map/"
   ],
   [
     "WIND",
@@ -123,7 +123,7 @@ var aIMG = [
   ],
   [
     "ISS LIVE TRACK",
-    "iframe|https://isstracker.pl/en"
+    "iframe|https://www.heavens-above.com/orbitdisplay.aspx?icon=iss&width=600&height=300&mode=M&satid=25544"
   ],
   [
     "HF PROPAGATION",
