@@ -63,7 +63,7 @@ var aURL = [
   [
     "#2196f3",
     "WINDS",
-    "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-250.31,4.41,3071/loc=107.017,2.805",
+    "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-250.62,2.37,1865/loc=107.017,2.805",
     1,
     "R"
   ],
@@ -103,7 +103,7 @@ var aIMG = [
   ],
   [
     "WIND",
-    "iframe|https://earth.nullschool.net/#current/wind/surface/level/orthographic=-250.62,2.37,1132/loc=107.017,2.805"
+    "iframe|https://globalwindatlas.info/en/area/Malaysia"
   ],
   [
     "RAIN",
