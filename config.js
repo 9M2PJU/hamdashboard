@@ -99,7 +99,7 @@ var aIMG = [
   ],
   [
     "DX CLUSTER",
-    "iframe|https://dxcluster.ha8tks.hu/V2/map/"
+    "iframe|https://dx.hamradio.my"
   ],
   [
     "WIND",
