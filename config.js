@@ -111,7 +111,7 @@ var aIMG = [
   ],
   [
     "LIGHTNING",
-    "https://images.lightningmaps.org/blitzortung/oceania/index.php?map=indonesia&date=202503210415-120"
+    "https://images.lightningmaps.org/blitzortung/oceania/index.php?map=indonesia&period=0.25"
   ],
   [
     "ISS LIVE STREAM",
