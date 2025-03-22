@@ -28,7 +28,7 @@ var aURL = [
   [
     "#2196f3",
     "DX CLUSTER",
-    "https://dx.hamradio.my",
+    "iframe|https://dx.hamradio.my",
     1,
     "undefined"
   ],
