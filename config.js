@@ -106,8 +106,8 @@ var aIMG = [
     "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-250.31,4.41,3071/loc=107.017,2.805"
   ],
   [
-    "SATELLITE CGL",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/cgl/EXTENT3/GOES16-CGL-EXTENT3-600x600.gif"
+    "RAIN",
+    "iframe|https://www.rainviewer.com/map.html?loc=3.2984,109.0124,5.264747586779227&oCS=1&c=3&o=83&lm=1&layer=radar&sm=1&sn=1"
   ],
   [
     "LIGHTNING",
