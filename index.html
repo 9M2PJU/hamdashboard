@@ -1383,11 +1383,11 @@ var tileDelay = ${JSON.stringify(settings.aImages.map(item => item[2]), null, 2)
         );
 
         // Append the Setup and Sources option to the right side menu
-        //if (typeof disableSetup === "undefined" || !disableSetup) {
-          //aURL.push(
-           // ["ff9100", "Setup", "#", "1", "R"]
-         // )
-        //}
+        if (typeof disableSetup === "undefined" || !disableSetup) {
+          aURL.push(
+            ["ff9100", "Setup", "#", "1", "R"]
+          )
+        }
 
         //aURL.push(
           //["0dd1a7", "Sources", "#", "1", "R"]
