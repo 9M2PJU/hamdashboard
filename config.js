@@ -98,8 +98,8 @@ var aIMG = [
     "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png"
   ],
   [
-    "ISS POSITION",
-    "https://www.heavens-above.com/orbitdisplay.aspx?icon=iss&width=600&height=300&mode=M&satid=25544"
+    "DX MAPS",
+    "iframe|https://dxcluster.dxcenter.com/"
   ],
   [
     "WIND",
