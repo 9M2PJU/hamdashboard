@@ -118,8 +118,8 @@ var aIMG = [
     "iframe|https://www.youtube.com/embed/v6-ydrdTPhM?autoplay=1&mute=1"
   ],
   [
-    "BSP ADS-B",
-    "iframe|https://adsb.hamradio.my/"
+    "ADS-B",
+    "iframe|https://globe.adsbexchange.com/"
   ],
   [
     "VIDEO",
