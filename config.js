@@ -63,7 +63,7 @@ var aURL = [
   [
     "#2196f3",
     "WINDS",
-    "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-78.79,44.09,3000",
+    "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-250.31,4.41,3071/loc=107.017,2.805",
     1,
     "R"
   ],
