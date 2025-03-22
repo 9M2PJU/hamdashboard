@@ -122,8 +122,8 @@ var aIMG = [
     "iframe|https://globe.adsbexchange.com/"
   ],
   [
-    "VIDEO",
-    "https://himawari8.nict.go.jp/movie/720/20240611_pifd.mp4"
+    "ISS LIVE",
+    "https://isstracker.spaceflight.esa.int/imgs/overlay2023.png"
   ],
   [
     "HF PROPAGATION",
