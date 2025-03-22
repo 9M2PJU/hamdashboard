@@ -28,7 +28,7 @@ var aURL = [
   [
     "#2196f3",
     "DX CLUSTER",
-    "https://dxwatch.com/",
+    "https://cluster.f5len.org",
     1,
     "undefined"
   ],
